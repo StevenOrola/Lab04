@@ -5,6 +5,18 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Version 6.0*
+
+Release Date: Sep 30, 2017
+
+## Updated Components
+
+- Updated /config/config.php
+    - Added show route
+
+- Updated /config/routes.php
+    - Route configuration for Kilo 
+
 ## *Version 5.0*
 
 Release Date: Sep 30, 2017
