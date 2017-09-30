@@ -5,6 +5,18 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Version 5.0*
+
+Release Date: Sep 30, 2017
+
+## New Components
+
+- Echo controller
+
+## Updated Components
+
+- Updated routing for echo
+
 ## *Version 4.0*
 
 Release Date: Sep 30, 2017
