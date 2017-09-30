@@ -4,6 +4,19 @@ Team membership:  Steven Orola (Captain) & Kevin Dicoy (Mate) & Ian Park (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+
+## *Version 4.0*
+
+Release Date: Sep 30, 2017
+
+## New Components
+
+- Bravo controller
+
+## Updated Components
+
+- Updated routing for bravo
+
 ## *Version 3.0*
 
 Release Date: Sep 29, 2017
