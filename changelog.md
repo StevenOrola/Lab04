@@ -4,6 +4,25 @@ Team membership:  Steven Orola (Captain) & Kevin Dicoy (Mate) & Ian Park (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## *Version 3.0*
+
+Release Date: Sep 29, 2017
+
+## New Components
+
+- India.php controller
+
+- Data folder in project root
+
+    - Added BCIT logo in .png format
+
+## Updated Components
+
+-   controllers
+
+-   config
+
+
 ## *Version 2.0*
 
 Release Date: Sep 29, 2017

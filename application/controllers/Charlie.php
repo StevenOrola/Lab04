@@ -9,9 +9,6 @@ class Charlie extends Application
 		parent::__construct();
 	}
 
-	/**
-	 * Homepage for our app
-	 */
 	public function brown()
 	{
 		$this->show(3);
