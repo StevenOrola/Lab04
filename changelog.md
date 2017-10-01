@@ -5,6 +5,19 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Version 12.0*
+
+Release Date: Oct 1, 2017
+
+## New Components
+
+- Juliet controller
+
+## Updated Components
+
+- Updated /config/config.php
+    - Added /juliet
+
 ## *Version 11.0*
 
 Release Date: Oct 1, 2017
