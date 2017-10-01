@@ -56,3 +56,5 @@ $route['foxtrot'] = 'tango';
 
 //Rerouting for Kilo
 $route['show/(:any)'] = 'welcome/show/$1';
+$route['i/.*'] = 'golf';	// remaps any request with the first segment
+							// "i" to the Golf controller
