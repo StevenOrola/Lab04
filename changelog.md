@@ -5,6 +5,19 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Version 7.0*
+
+Release Date: Sep 30, 2017
+
+## New Components
+
+- Able controller
+
+## Updated Components
+
+- Updated /config/config.php
+    - Added show route
+
 ## *Version 6.0*
 
 Release Date: Sep 30, 2017
