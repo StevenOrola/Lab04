@@ -52,3 +52,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+$route['foxtrot'] = 'tango';
+
+//Rerouting for Hotel to Golf
+$route['(bananas)/(rule)'] =
+	function ($fruit, $verb) {
+		return 'golf';
+		};
+                
+//Rerouting for Kilo
+$route['show/(:any)'] = 'welcome/show/$1';
+$route['i/.*'] = 'golf';	// remaps any request with the first segment
+							// "i" to the Golf controller
