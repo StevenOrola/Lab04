@@ -5,6 +5,15 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Version 11.0*
+
+Release Date: Oct 1, 2017
+
+## Updated Components
+
+- Updated /config/config.php
+    - Added missing forward slahses in the target links for Alpha and Golf
+
 ## *Version 10.0*
 
 Release Date: Sep 30, 2017
