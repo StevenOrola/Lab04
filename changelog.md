@@ -4,6 +4,17 @@ Team membership:  Steven Orola (Captain) & Kevin Dicoy (Mate) & Ian Park (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## *Version 9.0*
+
+Release Date: Sep 30, 2017
+
+## Updated Components
+
+- Updated /config/config.php
+    -Added /banana/rule routing
+
+- Updated /config/routes.php
+    -Added code to reroute Hotel to Golf
 
 ## *Version 8.0*
 
