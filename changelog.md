@@ -5,6 +5,22 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Version 8.0*
+
+Release Date: Sep 30, 2017
+
+## New Components
+
+- Golf controller
+
+## Updated Components
+
+- Updated /config/config.php
+    - Added /i/need/a/boy
+
+- Update /config/routs.php
+	- Route configuration for Golf
+
 ## *Version 7.0*
 
 Release Date: Sep 30, 2017
@@ -16,7 +32,7 @@ Release Date: Sep 30, 2017
 ## Updated Components
 
 - Updated /config/config.php
-    - Added show route
+    - Added able route
 
 ## *Version 6.0*
 
